@@ -34,7 +34,7 @@ bibtex:
     year = {2017}}
 ```
 
-## Requrements
+## Requirements
 
 First install [PyTorch](https://pytorch.org), then install [torchnet](https://github.com/pytorch/tnt):
 
